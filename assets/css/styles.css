@@ -67,7 +67,6 @@ body {
 
 .header.fixed {
     position: sticky;
-    top: -28px;
     z-index: 1;
 }
 
